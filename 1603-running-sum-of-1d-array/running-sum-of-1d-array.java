@@ -10,7 +10,6 @@ class Solution {
         }
 
         System.arraycopy(arr, 1, nums, 1, nums.length - 1);
-
-        return nums;
+ return nums;
     }
 }
